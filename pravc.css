@@ -1,0 +1,20 @@
+.tudo {
+    border: 0px;
+    margin: 0px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-image: url(imagens2/gutschuva.png);
+    background-size: cover;
+    color: aliceblue;
+
+}
+
+.areatxt {
+    background-color: rgba(240, 248, 255, 0.199);
+    color: white;
+    font-size: 18px;
+}

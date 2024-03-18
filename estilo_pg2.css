@@ -1,0 +1,24 @@
+.corpo {
+    background-image: url(imagens2/gutssolitude.jpg);
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-size: 32px;
+    font-style: normal;
+    color: blanchedalmond;
+}
+
+.fundo {
+    display: flex;
+    align-content: center;
+    width: max-content;
+    height: auto;
+    text-align: center;
+    margin-left: 480px;
+    margin-top: 10%;
+}
+
+.ponto {
+    background-color: rgba(165, 42, 42, 0);
+    display: block;
+    margin: 0 auto;
+}
